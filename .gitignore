@@ -1,0 +1,9 @@
+#to ignore the file
+myfile.txt.txt
+#ignore a dictionary
+temp/
+jdk/
+cache
+#ignore all the files
+.log
+
